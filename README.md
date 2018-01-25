@@ -22,9 +22,9 @@ Example :
 ```
 $concat = [
 
-		'file1.js',
+    'file1.js',
     'file2.js',
-		'another_folder/file3.js'
+     'another_folder/file3.js'
 
 ];
 
