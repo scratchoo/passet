@@ -1,6 +1,8 @@
 # passet
 A php tool to concat and minify javascript files
 
+Note: passet depends on uglifyjs and inotify-tools, and will install them automatically for you when needed only if you are in a Linux/Debian based os/system, if you are using another linux distribution or mac, make sure to install both `uglifyjs and inotify-tools` before using passet
+
 ## When to use this tool ? 
 
 * You use php already
