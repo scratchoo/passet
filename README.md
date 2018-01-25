@@ -31,7 +31,7 @@ $concat = [
 $output = './dist/app.js';
   
 ```
-3) To concat and minify your files, open your console/terminal and run :
+3) To concat and minify your files, open your console/terminal (don't forget to cd to your js folder) and run :
 
 ```
 php passet.php --minify
