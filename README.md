@@ -62,6 +62,10 @@ php passet.php --minify --watch
 
 --watch, -w : watch files changes and run the command automatically
 
+### TODO
+
+Add SCSS/CSS minifier
+
 ## Licence
 
 Source code can be found on [github](https://github.com/scratchoo/passet), licenced under [MIT](http://opensource.org/licenses/mit-license.php).
