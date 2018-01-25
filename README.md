@@ -1,12 +1,12 @@
 # passet
 A php tool to concat and minify javascript files
 
-## Why this tool ? 
-We found ourselves using different js build tools everytime to just concat and minify our javascript, but those tools aren't simple and most of them take time to learn, worst sometimes you need to install tons of dependencies just to do a simple task like minifying your code! (and hopefully you don't face some deprecation notice & errors during the process...)
+## When to use this tool ? 
 
-PHP to the rescue ! we already use php for different things including web development so we decided to write this little php tool to help concat (work also if you have a standalone file) and/or minify js + a watch functionnality to concat & minify your files in the fly...
-
-And YEAH it's very easy to use, no learning curve needed, even a newbie can use it :)
+* You use php already
+* You want to concat and/or minify your js files
+* You don't want to install/use complex js build tools that sucks
+* you want something easy and simple to use (No learning curve needed)
 
 ## Quick Start
 
